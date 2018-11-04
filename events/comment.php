@@ -34,7 +34,7 @@ function bearychat_notify_hook_comment_post($comment_id, $approved)
 			)
         );
 
-        $api->requestWithAttachments(__('New Comments'), $attachments);
+        $api->requestWithAttachments(__('New Comments', 'bearychat-notify'), $attachments);
     }
 
 }
