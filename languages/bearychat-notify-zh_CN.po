@@ -1,0 +1,436 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BearyChat Notification\n"
+"POT-Creation-Date: 2018-11-04 14:25+0800\n"
+"PO-Revision-Date: 2018-11-04 14:27+0800\n"
+"Last-Translator: Bestony <xiqingongzi@gmail.com>\n"
+"Language-Team: Bestony <xiqingongzi@gmail.com>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: bearychat-notification.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: admin/init.php:17
+msgid "Bearychat Notification"
+msgstr "BearyChat 倍洽通知插件"
+
+#: admin/init.php:31
+msgid "Plugin Basic Settings"
+msgstr "插件基础设置"
+
+#: admin/init.php:38
+msgid "BearyChat WebHook URL"
+msgstr "Incoming Webhook URL"
+
+#: admin/init.php:49
+msgid "Event Settings"
+msgstr "事件设定"
+
+#: admin/init.php:56
+msgid "System Event"
+msgstr "系统相关事件"
+
+#: admin/init.php:63
+msgid "Post Event"
+msgstr "文章相关事件"
+
+#: admin/init.php:69
+msgid "Page Event"
+msgstr "页面相关事件"
+
+#: admin/init.php:75
+msgid "Comment Event"
+msgstr "评论相关事件"
+
+#: admin/init.php:81
+msgid "User Event"
+msgstr "用户相关事件"
+
+#: admin/init.php:87
+msgid "Woocommerce Event"
+msgstr "Woocommerce 相关事件"
+
+#: admin/init.php:97
+msgid "WordPress has update"
+msgstr "WordPress 有更新"
+
+#: admin/init.php:108
+msgid "New Post Publish"
+msgstr "文章发布"
+
+#: admin/init.php:115
+msgid "New Post Scheduled"
+msgstr "文章定时发布"
+
+#: admin/init.php:122
+msgid "New Post Pending"
+msgstr "文章待审核"
+
+#: admin/init.php:129
+msgid "New Post Updated"
+msgstr "文章更新"
+
+#: admin/init.php:136
+msgid "New Post Trashed"
+msgstr "文章移入回收站"
+
+#: admin/init.php:147
+msgid "New Page Publish"
+msgstr "页面发布"
+
+#: admin/init.php:154
+msgid "New Page Scheduled"
+msgstr "页面定时发布"
+
+#: admin/init.php:161
+msgid "New Page Pending"
+msgstr "页面待审核"
+
+#: admin/init.php:168
+msgid "New Page Updated"
+msgstr "页面更新"
+
+#: admin/init.php:175
+msgid "New Page Trashed"
+msgstr "页面移入回收站"
+
+#: admin/init.php:185
+msgid "New Comment"
+msgstr "新评论"
+
+#: admin/init.php:195
+msgid "User Registered"
+msgstr "新用户注册"
+
+#: admin/init.php:203
+msgid "Administrator Logged In"
+msgstr "管理员登录"
+
+#: admin/init.php:211
+msgid "Administrator Failed Login"
+msgstr "管理员登录失败"
+
+#: admin/init.php:221
+msgid "New Order"
+msgstr "新订单"
+
+#: admin/init.php:228
+msgid "Order Completed"
+msgstr "订单完成"
+
+#: admin/init.php:235
+msgid "Order Pending"
+msgstr "订单待付款"
+
+#: admin/init.php:242
+msgid "Order Processing"
+msgstr "订单处理中"
+
+#: admin/init.php:250
+msgid "Order On Hold"
+msgstr "订单保留"
+
+#: admin/init.php:257
+msgid "Order Cancelled"
+msgstr "订单取消"
+
+#: admin/init.php:265
+msgid "Order Refunded"
+msgstr "订单退款"
+
+#: admin/init.php:273
+msgid "Order Failed"
+msgstr "失败订单"
+
+#: admin/init.php:280
+msgid "New Order Note"
+msgstr "新订单备注"
+
+#: admin/init.php:288
+msgid "Product Low Stock"
+msgstr "产品库存不足"
+
+#: admin/init.php:296
+msgid "Product Out of Stock"
+msgstr "产品缺货"
+
+#: admin/section-handle.php:22
+msgid "Setting Webhook URL"
+msgstr "设置倍洽的 Incoming Webhook URL"
+
+#: admin/section-handle.php:28
+msgid "Enable Event You Need"
+msgstr "根据需要，在下方开启你需要的事件通知。"
+
+#: events/comment.php:24
+msgid "Comment Content"
+msgstr "评论内容"
+
+#: events/comment.php:28
+msgid "Comment Author"
+msgstr "评论作者"
+
+#: events/comment.php:32
+msgid "See Post"
+msgstr "查看文章"
+
+#: events/comment.php:37
+msgid "New Comments"
+msgstr "新评论"
+
+#: events/page.php:18
+#, php-format
+msgid "%s Publish new Page %s"
+msgstr "%s 发布了新的页面 %s"
+
+#: events/page.php:24
+#, php-format
+msgid "Page %s Will Publish at %s"
+msgstr "页面 %s 将于 %s 发布"
+
+#: events/page.php:32
+#, php-format
+msgid "%s Create Page %s is Pending"
+msgstr "%s 创建的 %s 等待审核中"
+
+#: events/page.php:57
+#, php-format
+msgid "%s has updated."
+msgstr "%s 已更新。"
+
+#: events/page.php:81
+#, php-format
+msgid "%s was trashed."
+msgstr "%s 移入回收站"
+
+#: events/post.php:32
+#, php-format
+msgid "New Post Publish: %s"
+msgstr "新文章发布: %s"
+
+#: events/post.php:42
+#, php-format
+msgid "%s Create a new Post %s Will Publish at %s"
+msgstr "%s 创建了新的文章 %s ，将会与 %s 发布"
+
+#: events/post.php:55
+#, php-format
+msgid "%s New Post %s is Pending."
+msgstr "%s 的新文章 %s 等待审核"
+
+#: events/post.php:80
+#, php-format
+msgid "Post %s Was crashed"
+msgstr "文章 %s 被移入回收站"
+
+#: events/post.php:102
+#, php-format
+msgid "%s 's Post %s was updated."
+msgstr "%s 的文章 %s 已更新。"
+
+#: events/system.php:24
+#, php-format
+msgid "New WordPress available, now at %s ,and new is %s"
+msgstr "新的 WordPress 版本已经发布，当前版本 %s ，新版本 %s。"
+
+#: events/user.php:26
+#, php-format
+msgid "New User Register: %s"
+msgstr "新用户注册：%s"
+
+#: events/user.php:29
+msgid "User Name"
+msgstr "用户名"
+
+#: events/user.php:34
+msgid "User Email"
+msgstr "邮箱"
+
+#: events/user.php:54
+msgid "Administrator Login Notification"
+msgstr "管理员登录提醒"
+
+#: events/user.php:57
+msgid "Administrator Name"
+msgstr "管理员"
+
+#: events/user.php:62
+msgid "Administrator Email"
+msgstr "管理员邮箱"
+
+#: events/user.php:67
+msgid "Administrator IP Address"
+msgstr "管理员地址"
+
+#: events/user.php:84
+msgid "Administrator Login Faild Alert"
+msgstr "管理员登录失败报警"
+
+#: events/user.php:87
+msgid "Username"
+msgstr "用户名"
+
+#: events/user.php:92
+msgid "IP Address"
+msgstr "IP 地址"
+
+#: events/woocommerce.php:13
+#, php-format
+msgid "%s has new Order."
+msgstr "%s 有新订单"
+
+#: events/woocommerce.php:33
+#, php-format
+msgid "Order #%d marked as Completed."
+msgstr "订单 #%d 标记为已完成"
+
+#: events/woocommerce.php:38
+#, php-format
+msgid "Order #%d marked as Pending."
+msgstr "订单 #%d 标记为待付款"
+
+#: events/woocommerce.php:44
+#, php-format
+msgid "Order #%d marked as Processing."
+msgstr "订单 #%d 标记为处理中"
+
+#: events/woocommerce.php:49
+#, php-format
+msgid "Order #%d marked as On Hold."
+msgstr "订单 #%d 标记为保留"
+
+#: events/woocommerce.php:54
+#, php-format
+msgid "Order #%d marked as Cancelled."
+msgstr "订单 #%d 标记为已取消"
+
+#: events/woocommerce.php:59
+#, php-format
+msgid "Order #%d marked as Refunded."
+msgstr "订单 #%d 标记为已退款"
+
+#: events/woocommerce.php:77
+#, php-format
+msgid "Order #%d add new Customer Note."
+msgstr "订单 #%d 有新的顾客备注"
+
+#: events/woocommerce.php:90
+#, php-format
+msgid "%s  stock is low."
+msgstr "%s  库存已不足"
+
+#: events/woocommerce.php:94
+#, php-format
+msgid "%s is out of stock"
+msgstr "%s  缺货"
+
+#: inc/api.php:49
+msgid "Order ID"
+msgstr "订单 ID"
+
+#: inc/api.php:54
+msgid "Order Status"
+msgstr "订单状态"
+
+#: inc/api.php:59
+msgid "Order Total"
+msgstr "订单金额"
+
+#: inc/api.php:64
+msgid "Payment Gateway"
+msgstr "支付方式"
+
+#: inc/api.php:69
+msgid "See Order Detail"
+msgstr "查看订单详情"
+
+#: inc/api.php:101
+msgid "Post ID"
+msgstr "文章ID"
+
+#: inc/api.php:106
+msgid "Post Title"
+msgstr "文章标题"
+
+#: inc/api.php:111
+msgid "Post Author"
+msgstr "作者"
+
+#: inc/api.php:117
+msgid "Edit Post >>"
+msgstr "编辑文章 >>"
+
+#: inc/api.php:122
+msgid "See Post >>"
+msgstr "查看文章 >>"
+
+#: inc/api.php:142
+msgid "Page Title"
+msgstr "页面标题"
+
+#: inc/api.php:147
+msgid "Page Author"
+msgstr "页面作者"
+
+#: inc/api.php:153
+msgid "Edit Page >>"
+msgstr "编辑页面 >>"
+
+#: inc/api.php:158
+msgid "See Page >>"
+msgstr "查看页面 >> "
+
+#. Plugin Name of the plugin/theme
+msgid "BearyChat Notification"
+msgstr "BearyChat 倍洽通知插件"
+
+#. Plugin URI of the plugin/theme
+msgid "https: //wpstore.app/archives/bearychat-notification/"
+msgstr "https: //wpstore.app/archives/bearychat-notification/"
+
+#. Description of the plugin/theme
+msgid ""
+"A BearyChat Notification plugin, can send WordPress Event to your Bearychat "
+"Channel."
+msgstr ""
+"一个 WordPress 的 Bearychat 插件，能够将 WordPress 的事件发送到你的 "
+"Bearychat 频道中。"
+
+#. Author of the plugin/theme
+msgid "Bestony"
+msgstr "Bestony"
+
+#. Author URI of the plugin/theme
+msgid "https: //wpstore.app/"
+msgstr "https: //wpstore.app/"
+
+#~ msgid " %s Create Page %s is Pending"
+#~ msgstr "%s 创建的 %s 等待审核中"
+
+#~ msgid "Page ID"
+#~ msgstr "页面ID"
+
+#~ msgid "See Order Detial"
+#~ msgstr "查看订单详情"
+
+#~ msgid "Plugin has update"
+#~ msgstr "插件有更新"
+
+#~ msgid "Theme has update"
+#~ msgstr "主题有更新"
+
+#~ msgid "BearyChat WebHook"
+#~ msgstr "BearyChat WebHook"
+
+#~ msgid "System Settings"
+#~ msgstr "系统"
