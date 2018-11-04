@@ -56,7 +56,12 @@ Plugin now support these events:
 2. Activate Plugin
 3. Settings Plugin and enable for event.
 
+## Todo
 
+- [ ] Message Log
+- [ ] Test Event Button
+- [ ] Event && Channel Table (echo row has channel field 、 event field 、webhook url field )
+- [ ] More 
 
 ## License
 
