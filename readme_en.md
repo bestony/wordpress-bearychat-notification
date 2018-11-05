@@ -5,6 +5,9 @@
 <p align="center">  A WordPress Plugin can send message to Bearychat </p>
 
 
+## What is Bearychat ?
+
+BearyChat is a team communication service. It utilizes chatbots and integrates with third-party services to achieve high efficiency.
 
 ## Support Event
 

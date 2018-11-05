@@ -15,7 +15,7 @@ A BearyChat Notification plugin, can send WordPress Event to your [Bearychat](ht
 
 A Plugin can send some event information from wordpress to bearychat . Simple Settings and Powerful Message!
 
-[BearyChat](https://bearychat.com), An Intelligent message processing center for work scene.
+[BearyChat](https://bearychat.com) is a team communication service. It utilizes chatbots and integrates with third-party services to achieve high efficiency.
 
 == Installation ==
 
