@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name:  Notifications For BearyChat
-Plugin URI:   https: //wpstore.app/archives/bearychat-notification/
+Plugin URI:   https://wpstore.app/archives/bearychat-notification/
 Description:  A BearyChat Notification plugin, can send WordPress Event to your <a herf="https://bearychat.com">Bearychat</a> Channel.
 Version:      0.1
 Author:       Bestony
