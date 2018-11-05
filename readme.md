@@ -1,7 +1,7 @@
 [English](readme_en.md)
 <p align="center"> <img src="https://postimg.aliavv.com/newmbp/ica21.png" /> </p>
 
-<h1 align="center"> Bearychat Notification | 倍洽消息通知插件 </h1>
+<h1 align="center"> Notifications For BearyChat | 倍洽消息通知插件 </h1>
 
 <p align="center">  WordPress 的 BearyChat 消息通知插件. </p>
 
@@ -16,7 +16,7 @@
 	- [x] WordPress Update Available
 - [x] User
 	- [x] User Register
-	- [x] Administrator Login 
+	- [x] Administrator Login
 	- [x] Administrator Fail Login
 - [x] Post
 	- [x] Publish
@@ -30,7 +30,7 @@
 	- [x] Pending
 	- [x] Update
 	- [x] Move to Trash
-- [x] Comment 
+- [x] Comment
 	- [x] New Comment
 - [x] Woocommerce
 	- [x] New Order

@@ -1,4 +1,4 @@
-=== BearyChat Notification ===
+=== Notifications For BearyChat ===
 Contributors: bestony
 Donate link: https://wpstore.app/donate
 Tags: notification
@@ -9,11 +9,13 @@ Requires PHP: 7.1
 License: GPLv3
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
-A BearyChat Notification plugin, can send WordPress Event to your Bearychat Channel.
+A BearyChat Notification plugin, can send WordPress Event to your [Bearychat](https://bearychat.com) Channel.
 
 == Description ==
 
 A Plugin can send some event information from wordpress to bearychat . Simple Settings and Powerful Message!
+
+[BearyChat](https://bearychat.com), An Intelligent message processing center for work scene.
 
 == Installation ==
 

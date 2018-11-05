@@ -1,6 +1,6 @@
 <p align="center"> <img src="https://postimg.aliavv.com/newmbp/ica21.png" /> </p>
 
-<h1 align="center"> Bearychat Notification Plugin For WordPress </h1>
+<h1 align="center"> Notifications For BearyChat </h1>
 
 <p align="center">  A WordPress Plugin can send message to Bearychat </p>
 
@@ -15,7 +15,7 @@ Plugin now support these events:
 	- [x] WordPress Update Available
 - [x] User
 	- [x] User Register
-	- [x] Administrator Login 
+	- [x] Administrator Login
 	- [x] Administrator Fail Login
 - [x] Post
 	- [x] Publish
@@ -29,7 +29,7 @@ Plugin now support these events:
 	- [x] Pending
 	- [x] Update
 	- [x] Move to Trash
-- [x] Comment 
+- [x] Comment
 	- [x] New Comment
 - [x] Woocommerce
 	- [x] New Order
@@ -45,7 +45,7 @@ Plugin now support these events:
 	- [x] Product Out of Stock
 
 
-## Install 
+## Install
 
 1. Install From WordPress Plugin Store
 2. Download From Github
@@ -61,7 +61,7 @@ Plugin now support these events:
 - [ ] Message Log
 - [ ] Test Event Button
 - [ ] Event && Channel Table (echo row has channel field 、 event field 、webhook url field )
-- [ ] More 
+- [ ] More
 
 ## License
 
